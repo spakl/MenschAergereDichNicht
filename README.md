@@ -1,2 +1,2 @@
 # MenschAergereDichNicht
-Mensch Ärgere dich nicht Spiel in python
+Mensch ärgere dich nicht Spiel in python
